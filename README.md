@@ -4,7 +4,7 @@ This project is a **landing page** for showcasing car details, built using **Nex
 
 ---
 ## Live Demo
-You can check out the live demo of the project at the following link : [CarRental](https://carland-website.vercel.app/)
+You can check out the live demo of the project at the following link : [CarRental](https://car-rental-beta-seven.vercel.app/)
 ---
 
 ## ✨ **Features**
