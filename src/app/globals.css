@@ -64,7 +64,9 @@
 } */
 
 .hero__image-overlay {
-  @apply absolute xl:-top-24 xl:-left-1/2 -left-1/4 bg-hero-bg bg-repeat-round -z-10 w-full xl:h-screen h-[590px] overflow-hidden;
+  background-image: url('/images/hero-bg.png'); /* تصویر پس‌زمینه */
+  background-repeat: round; /* تکرار تصویر در حالت round */
+  @apply absolute xl:-top-24 xl:-left-1/2 -left-1/4 -z-10 w-full xl:h-screen h-[590px] overflow-hidden;
 } 
 .hero__image-container {
   @apply xl:flex-[1.5] flex justify-end items-start w-full xl:h-screen;
