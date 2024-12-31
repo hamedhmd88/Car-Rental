@@ -43,6 +43,6 @@ npm run dev
 ## Sample Screenshot
 Below is a sample screenshot of the project :
 
-![project](/assets/project.jpg)
+![project](/public/assets/project.jpg)
 
 

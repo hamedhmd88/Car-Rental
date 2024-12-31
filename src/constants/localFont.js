@@ -1,11 +1,11 @@
 import LocalFont from "next/font/local";
 const vazirFont = LocalFont({
   src: [
-    {
-      path: "/Public/fonts/IRANYekanWebLight.woff2",
-      weight: "400",
-      style: "normal",
-    },
+    // {
+    //   path: "/Public/fonts/IRANYekanWebLight.woff2",
+    //   weight: "400",
+    //   style: "normal",
+    // },
     {
       path: "/Public/fonts/IRANYekanWebMedium.woff2",
       weight: "500",
