@@ -2,33 +2,33 @@ import LocalFont from "next/font/local";
 const vazirFont = LocalFont({
   src: [
     {
-      path: "/fonts/IRANYekanWebLight.woff2",
+      path: "../../Public/fonts/IRANYekanWebLight.woff2",
       weight: "400",
       style: "normal",
     },
     {
-      path: "/fonts/IRANYekanWebMedium.woff2",
+      path: "../../Public/fonts/IRANYekanWebMedium.woff2",
       weight: "500",
       style: "normal",
     },
     {
-      path: "/fonts/IRANYekanWebRegular.woff2",
+      path: "../../Public/fonts/IRANYekanWebRegular.woff2",
       weight: "500",
       style: "normal",
     },
     {
-      path: "/fonts/IRANYekanWebBold.woff2",
+      path: "../../Public/fonts/IRANYekanWebBold.woff2",
       weight: "700",
       style: "normal",
     },
     {
-      path: "/fonts/IRANYekanWebBlack.woff2",
+      path: "../../Public/fonts/IRANYekanWebBlack.woff2",
       weight: "800",
       style: "normal",
     },
     
     {
-      path: "/fonts/IRANYekanWebExtraBlack.woff2",
+      path: "../../Public/fonts/IRANYekanWebExtraBlack.woff2",
       weight: "900",
       style: "normal",
     },
